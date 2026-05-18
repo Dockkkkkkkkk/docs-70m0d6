@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dockkkkkkkkk.github.io/docs-70m0d6/sitemap.xml
